@@ -1,1 +1,3 @@
-output files (graphs, tables, etc) here
+lorenz_01.png
+lorenz_07.png
+transition_matrix.mat
